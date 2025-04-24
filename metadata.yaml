@@ -1,0 +1,31 @@
+_repo: Abraham-Lincoln-raittiusmiehena-ja-lyhyita-piirteita-hanen-elamankerrastaan_75929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ilmonen, S. (Salomon)
+    alias: Ilmonen, Salomon
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '58202'
+    url: http://www.gutenberg.org/2009/agents/58202
+    wikipedia: https://fi.wikipedia.org/wiki/Salomon_Ilmonen
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75929'
+language: fi
+pgterms:marc904: https://www.doria.fi/handle/10024/185816
+pgterms:marc905: 20250406210829ilmonen
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Produced by Petteri Pitkänen, from scanned material generously made
+  available by the National Library of Finland.
+publication_note: '  $aPori :$bOtto Andersin''in kirjapaino, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Abraham Lincoln raittiusmiehenä ja lyhyitä piirteitä hänen elämänkerrastaan
+url: http://www.gutenberg.org/ebooks/75929
