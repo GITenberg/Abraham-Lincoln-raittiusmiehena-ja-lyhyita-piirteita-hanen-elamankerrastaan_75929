@@ -1,5 +1,8 @@
 _repo: Abraham-Lincoln-raittiusmiehena-ja-lyhyita-piirteita-hanen-elamankerrastaan_75929
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ilmonen, S. (Salomon)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58202
     wikipedia: https://fi.wikipedia.org/wiki/Salomon_Ilmonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75929#Abraham-Lincoln-raittiusmiehena-ja-lyhyita-piirteita-hanen-elamankerrastaan
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
